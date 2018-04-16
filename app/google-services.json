@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "966545299588",
+    "firebase_url": "https://iscdemo-eeda8.firebaseio.com",
+    "project_id": "iscdemo-eeda8",
+    "storage_bucket": "iscdemo-eeda8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966545299588:android:84ee780b140d2f24",
+        "android_client_info": {
+          "package_name": "com.example.juanpedrog.a34serviciosbackend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966545299588-svmaakjgcj0p6rb2utigsnbiaqqhn0tp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.juanpedrog.a34serviciosbackend",
+            "certificate_hash": "b21e980a78f3b00910fcbdd0116ac488ea7d9ccf"
+          }
+        },
+        {
+          "client_id": "966545299588-cnmlhrjree1vgn36q9l1qlgsq1ehbcku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx_dUDGKrDkxkm7uOD-uYkTHapI7Xmh3w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966545299588-cnmlhrjree1vgn36q9l1qlgsq1ehbcku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
